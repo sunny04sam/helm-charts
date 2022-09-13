@@ -9,6 +9,6 @@ name: ping-devops
 version: 0.9.5
 description: Ping Identity helm charts - 09/01/22
 type: application
-home: https://helm.pingidentity.com/
+home: https://sunny04sam.github.io/helm-charts/
 icon: https://helm.pingidentity.com/img/logos/ping.png
 appVersion: "2208"
