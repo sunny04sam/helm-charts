@@ -38,7 +38,7 @@ brew install helm
 ## Add Helm Ping DevOps Repo
 
 ```shell
-helm repo add pingidentity https://helm.pingidentity.com/
+helm repo add pingidentity https://sunny04sam.github.io/helm-charts/
 ```
 
 ## List Ping DevOps Charts

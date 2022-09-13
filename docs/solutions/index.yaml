@@ -6,7 +6,7 @@ entries:
     created: "2020-11-06T13:25:19.28138-08:00"
     dependencies:
     - name: devops
-      repository: https://helm.pingidentity.com/devops
+      repository: https://sunny04sam.github.io/helm-charts/devops
       version: ~0.1.0
     description: A Helm chart to deploy Ping Customer360 into a Kubernetes cluster
     digest: f69a96ee4e966c0336d4928eacbc29d471a54a886d0dd437b4390c9ba908062f
@@ -20,7 +20,7 @@ entries:
     created: "2020-11-06T13:25:19.269231-08:00"
     dependencies:
     - name: devops
-      repository: https://helm.pingidentity.com/devops
+      repository: https://sunny04sam.github.io/helm-charts/devops
       version: ~0.1.0
     description: A Helm chart to deploy Ping Customer360 into a Kubernetes cluster
     digest: 0c2dac4c675b1720fbccab080e5d6ee81bcce95e45d7409e561c2115e880f100
@@ -34,22 +34,22 @@ entries:
     created: "2020-11-06T13:25:19.249118-08:00"
     dependencies:
     - name: pingdirectory
-      repository: https://helm.pingidentity.com/devops
+      repository: https://sunny04sam.github.io/helm-charts/devops
       version: ~0.0.5
     - name: pingdatasync
-      repository: https://helm.pingidentity.com/devops
+      repository: https://sunny04sam.github.io/helm-charts/devops
       version: ~0.0.1
     - name: pingfederate
-      repository: https://helm.pingidentity.com/devops
+      repository: https://sunny04sam.github.io/helm-charts/devops
       version: ~0.0.1
     - name: pingaccess
-      repository: https://helm.pingidentity.com/devops
+      repository: https://sunny04sam.github.io/helm-charts/devops
       version: ~0.0.5
     - name: pingcentral
-      repository: https://helm.pingidentity.com/devops
+      repository: https://sunny04sam.github.io/helm-charts/devops
       version: ~0.0.7
     - name: pingdataconsole
-      repository: https://helm.pingidentity.com/devops
+      repository: https://sunny04sam.github.io/helm-charts/devops
       version: ~0.1.0
     description: A Helm chart to deploy Ping Customer360 into a Kubernetes cluster
     digest: 93ff792994b97d79e6b07af354ad3adb454833afb890977df100d62aa7ed9929

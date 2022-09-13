@@ -10,7 +10,7 @@
   - Added an [example](https://raw.githubusercontent.com/pingidentity/pingidentity-devops-getting-started/master/30-helm/vault-keystores.yaml) for mounting keystore secrets with Vault
   - Added an [example](https://raw.githubusercontent.com/pingidentity/pingidentity-devops-getting-started/master/30-helm/csi-secrets-volume.yaml) for mounting secrets with CSI volumes (which can be used for various storage systems including AWS secrets manager)
   - Fixed Helm [RBAC example](https://raw.githubusercontent.com/pingidentity/pingidentity-devops-getting-started/master/30-helm/rbac.yaml) using an invalid serviceAccountName for pingauthorize
-  - Added a [doc page](https://helm.pingidentity.com/howto/updatetags/) describing how to update product versions
+  - Added a [doc page](https://sunny04sam.github.io/helm-charts/howto/updatetags/) describing how to update product versions
   - Added example docs for deploying [PingDirectory](https://devops.pingidentity.com/deployment/deployPDMultiRegion/) and [PingFederate](https://devops.pingidentity.com/deployment/deployPFMultiRegion/) in a multi-region environment with Helm
 
 ### Resolved Defects ###

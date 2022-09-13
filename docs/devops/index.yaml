@@ -10,6 +10,6 @@ entries:
     name: devops
     type: application
     urls:
-    - https://helm.pingidentity.com/devops/devops-0.2.0.tgz
+    - https://sunny04sam.github.io/helm-charts/devops/devops-0.2.0.tgz
     version: 0.2.0
 generated: "2020-11-13T17:40:26.356063-06:00"

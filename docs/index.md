@@ -40,7 +40,7 @@ environment.
 ## Adding the Helm Repo
 
 ```shell
-helm repo add pingidentity https://helm.pingidentity.com/
+helm repo add pingidentity https://sunny04sam.github.io/helm-charts/
 ```
 
 ## Removing the Repo

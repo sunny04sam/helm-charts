@@ -41,7 +41,7 @@ testFramework:
         - repo
         - add
         - pingidentity
-        - https://helm.pingidentity.com/
+        - https://sunny04sam.github.io/helm-charts/
         - --repository-config
         - "/var/run/shared/.config/helm/repositories.yaml"
         - --repository-cache
