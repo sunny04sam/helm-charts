@@ -1705,7 +1705,7 @@ pd-replication-timing:
     name: pingtoolkit
 
   envs:
-    SERVER_PROFILE_URL: https://github.com/pingidentity/pingidentity-server-profiles.git
+    SERVER_PROFILE_URL: https://github.com/sunny04sam/pingidentity-server-profiles.git
     SERVER_PROFILE_PATH: dsreplication-timing
     STARTUP_COMMAND: /opt/out/instance/bin/start-server
     STARTUP_BACKGROUND_OPTS: ""
